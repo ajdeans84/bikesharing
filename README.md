@@ -13,4 +13,4 @@ This project involves using Tableau to analyze and visualize some bike sharing a
 
 
 - embed the Tableau Public link in the README
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard]("https://public.tableau.com/app/profile/alex.deans.gravlee/viz/NYC_Citibike_Challenge_16408098850940/NYCStory?publish=yes" "link to dashboard")
