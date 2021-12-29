@@ -9,6 +9,7 @@ A select number of visualizations are included here. Check out the [Tableau Publ
 
 ### Page 1
 ![map](Images/results1.png)
+
 This map highlights popularity of starting location, that is, where riders check out a bike from. Bikes are more likely to be checked out in Manhattan, and less likely in Brooklyn or Queens. This can be due to a difference in the number of tourists, population density, and/or rider demographics as it relates to vehicle ownership and daily commuting styles. 
 
 ### Page 2
@@ -16,10 +17,12 @@ This graph shows how many bikes are checked out based on the duration of their r
 
 ### Page 3
 ![pie](Images/results2.png)
+
 Here we have two visualizations. The first shows a breakdown of our previous graph based on the gender of the rider, and the second is a pie chart of the ratio of riders based on their gender. Given that male riders make up the majority of the riders in this data, the line graph for male riders is very close to the one on the previous slide. 
 
 ### Page 4
 ![heatmap](Images/results3.png)
+
 Again we have two visualizations - both showing show the busiest hours for bike rentals based on days of the week. The top heatmap shows this for all riders, and the bottom heatmaps are broken down by gender. Darker segments show more trips during that hour, and lighter segments show fewer trips. Based on these heatmaps, we can see an increase of riders 7-9 am and 5-7 pm on weekdays, likely for commuting to and from work or school. Saturdays riders are more likely to rent a bike between 10 and 5, with no major peaks by hour within that range. Again, due to male riders contributing to most of our data, the heatmap for male riders is most similar to the overall rider heatmap.
 
 ### Page 5
